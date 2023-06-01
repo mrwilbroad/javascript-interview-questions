@@ -1,10 +1,5 @@
-# JavaScript Interview Questions & Answers
+<h1 align="center">Welcome to New Interviews Qustions About JavaScript Language @mrwilbroad Platform</h1>
 
-<h1 align="center">Welcome to New Interviews Qustions About JavaScript Language , Keep preparing @mrwilbroad Platform</h1>
-
-> Click :star:if you like the project and follow [@SudheerJonna](https://twitter.com/SudheerJonna) for more updates. Coding questions available [here](#coding-exercise). PDF and Epub versions available at [actions tab](https://github.com/sudheerj/JavaScript-Interview-Questions/actions).
-
----
 
 <p align="center">
   <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=javascript-interview-questions>
